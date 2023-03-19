@@ -1,4 +1,4 @@
-baseurl = "https://abexalate.com"
+baseurl = "https://blog.abexalate.com"
 title = "Alex's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
