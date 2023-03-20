@@ -14,7 +14,7 @@ image:      "img/post-bg-coffee.jpeg"
 
 For over 10 years now, I have entertained the idea of starting a blog. 
 
-In fact, I did start a blog in my early college years. And that blog was rooted in the idea of gratitude. And would ya look at that, I've come full circle. I've just read a book called [The Gap and the Gain](https://gapandgainbook.com/) that has reinspired this outlook of **gratitude.** (more on that later).
+In fact, I did start a blog in my early college years. And that blog was rooted in the idea of gratitude. And would ya look at that, I've come full circle. I've just read a book called [The Gap and the Gain](https://gapandgainbook.com/) that has reinspired this outlook of **gratitude.** \(more on that later\).
 
 ##### Why do you want to write, you might ask?
 1) I have always enjoyed the **process** of writing. As a kid, I remember sitting in my room, scribbling out chapters for a book I hoped to publish. This is where an introvert like myself explores and discovers. 
@@ -23,7 +23,7 @@ In fact, I did start a blog in my early college years. And that blog was rooted 
 ##### So what kept me from blogging? 
 Fear...not so much fear of starting. It's difficult to start, yes...yet, I have done that dozens of times. The real fear lies within the **fear of finishing**--when you are pouring yourself into a labor of love, how do you decide it is *enough* to send into the world for consumption? 
 
-I've decided the best way to answer that question is to start turning my magma into lava (get out your 7th grade earth science textbooks), and I'll see what happens. 
+I've decided the best way to answer that question is to start turning my magma into lava \(get out your 7th grade earth science textbooks\), and I'll see what happens. 
 
 Or as the kids say, "send it!"
 
